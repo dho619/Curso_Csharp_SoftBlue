@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gbarbosa\\Documents\\Curso_Csharp_SoftBlue\\HelloWord\\HelloWord\\HelloWord.csproj": {}
+    "C:\\Users\\gbarbosa\\Documents\\Curso_Csharp_SoftBlue\\HelloWord\\HelloWord\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gbarbosa\\Documents\\Curso_Csharp_SoftBlue\\HelloWord\\HelloWord\\HelloWord.csproj": {
+    "C:\\Users\\gbarbosa\\Documents\\Curso_Csharp_SoftBlue\\HelloWord\\HelloWord\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gbarbosa\\Documents\\Curso_Csharp_SoftBlue\\HelloWord\\HelloWord\\HelloWord.csproj",
-        "projectName": "HelloWord",
-        "projectPath": "C:\\Users\\gbarbosa\\Documents\\Curso_Csharp_SoftBlue\\HelloWord\\HelloWord\\HelloWord.csproj",
+        "projectUniqueName": "C:\\Users\\gbarbosa\\Documents\\Curso_Csharp_SoftBlue\\HelloWord\\HelloWord\\HelloWorld.csproj",
+        "projectName": "HelloWorld",
+        "projectPath": "C:\\Users\\gbarbosa\\Documents\\Curso_Csharp_SoftBlue\\HelloWord\\HelloWord\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\gbarbosa\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\gbarbosa\\Documents\\Curso_Csharp_SoftBlue\\HelloWord\\HelloWord\\obj\\",
         "projectStyle": "PackageReference",

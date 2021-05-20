@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yu7eypDrQrNEK7GTIc0pY9EHHM8Yz9O6JctfspR6Ay8pWtyg1oOOofokzwFnnRrpA+j82YmIUiBHxrY2kDUayg==",
+  "dgSpecHash": "3dGQfyFDsHu0UPr5ZvyejZT1CBcRaRxnKJTeLp+eFBq+IN9BD/zQgvyUYEctrsyYbEDSR1B46N67C+/JWNi0vA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gbarbosa\\Documents\\ProjetosCursoC#\\HelloWord\\HelloWord\\HelloWord.csproj",
+  "projectFilePath": "C:\\Users\\gbarbosa\\Documents\\Curso_Csharp_SoftBlue\\HelloWord\\HelloWord\\HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

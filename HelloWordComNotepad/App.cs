@@ -4,7 +4,7 @@ namespace Softblue
 	{
 		static void Main()
 		{
-			System.Console.WriteLine("Hello Word C#");
+			System.Console.WriteLine("Hello World C#");
 		}
 	}	
 }
